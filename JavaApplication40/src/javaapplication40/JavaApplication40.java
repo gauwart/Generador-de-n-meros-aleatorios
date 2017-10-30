@@ -1,6 +1,8 @@
 
 package javaapplication40;
 
+import javax.swing.JOptionPane;
+
 
 public class JavaApplication40 {
 
@@ -10,7 +12,7 @@ public class JavaApplication40 {
        
         
         System.out.println(hola);
-        JOptionPane.showMessageDialog(null,"Hola mundo");
+        JOptionPane.showMessageDialog(null,hola);
         
     }
     
